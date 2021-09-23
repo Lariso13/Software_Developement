@@ -1,0 +1,7 @@
+C:\Users\Larison\source\repos\AppLari\AppLari\bin\Debug\AppLari.exe.config
+C:\Users\Larison\source\repos\AppLari\AppLari\bin\Debug\AppLari.exe
+C:\Users\Larison\source\repos\AppLari\AppLari\bin\Debug\AppLari.pdb
+C:\Users\Larison\source\repos\AppLari\AppLari\obj\Debug\AppLari.csprojAssemblyReference.cache
+C:\Users\Larison\source\repos\AppLari\AppLari\obj\Debug\AppLari.csproj.CoreCompileInputs.cache
+C:\Users\Larison\source\repos\AppLari\AppLari\obj\Debug\AppLari.exe
+C:\Users\Larison\source\repos\AppLari\AppLari\obj\Debug\AppLari.pdb
